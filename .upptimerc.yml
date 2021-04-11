@@ -1,6 +1,9 @@
 # Change these first
 owner: website-200 # Your GitHub organization or username
 repo: csgowiki-bot # Your GitHub repository name
+assignees: # Users to assign downtime issues (optional)
+  - renziyao
+  - hx-w
 
 # Add your sites here
 sites:
