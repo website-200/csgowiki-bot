@@ -4,17 +4,17 @@
     "url": "https://www.csgowiki.top",
     "icon": "https://favicons.githubusercontent.com/www.csgowiki.top",
     "slug": "csgowiki",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2024,
-    "timeDay": 2689,
-    "timeWeek": 3388,
-    "timeMonth": 2822,
-    "timeYear": 2024,
+    "time": 2061,
+    "timeDay": 4188,
+    "timeWeek": 3705,
+    "timeMonth": 2919,
+    "timeYear": 2061,
     "dailyMinutesDown": {}
   }
 ]
